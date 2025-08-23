@@ -1,0 +1,4 @@
+username=user-name
+password=password
+login-button=login-button
+addcart=//a[@class='shopping_cart_link']

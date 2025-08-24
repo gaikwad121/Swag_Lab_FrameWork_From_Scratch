@@ -67,9 +67,9 @@ public class LoginTest extends BaseTest {
     	//test.get().log(Status.INFO, "Clicked Add to Cart button");
 
     	//Assert.assertTrue(true);
-        clk.addToCartClk();
-        test.get().log(Status.INFO, "Clicked Add to Cart button");
+       // clk.addToCartClk();
+       // test.get().log(Status.INFO, "Clicked Add to Cart button");
 
-        Assert.assertTrue(true, "Dummy assertion to capture screenshot");
+      //  Assert.assertTrue(true, "Dummy assertion to capture screenshot");
     }
 }

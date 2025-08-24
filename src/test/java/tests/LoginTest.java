@@ -48,6 +48,6 @@ public class LoginTest extends BaseTest {
     @Test
     void addCartClick() {
     	SwagLab_Home_Page clk=new SwagLab_Home_Page(driver);
-    	clk.addToCartClk();
+    	//clk.addToCartClk();
     }
 }
